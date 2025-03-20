@@ -3,7 +3,7 @@ a = int(input("Enter first number:"))
 b = int(input("Enter second number:"))
 c = int(input("Enter third number:"))
 
-#Using logical operator to compare the greatest number.
+#Using logical operator find the greatest of 3 numbers entered by the user..
 if(a>b) and (a>c):
     print("Greatest number is ",a )
 
