@@ -11,4 +11,3 @@ if __name__== "__main__":
     result= Array_sum(arr)            #calling function
 
 print("The sum of array is",result)   #printing value on screen 
-
